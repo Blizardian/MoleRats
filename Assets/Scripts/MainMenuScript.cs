@@ -19,6 +19,6 @@ public class MainMenuScript : MonoBehaviour
 
     public void OnButtonClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("test");
     }
 }
