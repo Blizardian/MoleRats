@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: ac8c199feb16a0548bd19a85a71a6db8
   - enabled: 1
+    path: Assets/Scenes/spider chase.unity
+    guid: 63dcbe989c7351f4fa44e7d832909fd1
+  - enabled: 1
     path: Assets/Scenes/AidenTest.unity
     guid: a6aa3127ac482e64498851d3ccfd2d5d
   - enabled: 1
