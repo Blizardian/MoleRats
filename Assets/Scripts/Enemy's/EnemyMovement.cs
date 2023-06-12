@@ -7,7 +7,7 @@ public class EnemyMovement : MonoBehaviour
     public float moveSpeed = 5f; // Speed at which the enemy moves
     private Transform target; // Reference to the player's transform
 
-    // Start is called before the first frame update
+       // Start is called before the first frame update
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform; // Find the player's transform
